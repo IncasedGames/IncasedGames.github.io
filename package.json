@@ -1,0 +1,10 @@
+{
+  "name": "incasedgames",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node tests.mjs",
+    "build": "node build.mjs"
+  },
+  "type": "module"
+}
