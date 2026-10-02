@@ -1,4 +1,4 @@
-import {CommunityAPI} from './api.js';import {renderCredits} from './credits.js';
+import {CommunityAPI} from './api.js?v=community-2';import {renderCredits} from './credits.js';
 const $=id=>document.getElementById(id),api=new CommunityAPI();let rating=0;renderCredits($('credit-grid'));
 $('play-button').addEventListener('click',()=>{const iframe=document.createElement('iframe');iframe.src='games/forgotten-journey-v1.html';iframe.title='Forgotten Journey';iframe.allow='fullscreen; autoplay';iframe.setAttribute('sandbox','allow-scripts allow-same-origin allow-pointer-lock allow-downloads');$('stage').append(iframe);$('stage-cover').hidden=true;iframe.focus();});
 $('fullscreen').addEventListener('click',async()=>{try{await $('stage').requestFullscreen();}catch{const b=$('fullscreen');b.textContent='Fullscreen unavailable';}});
