@@ -1,4 +1,4 @@
-import {CONFIG} from './config.js?v=community-2';
+import {CONFIG} from './config.js?v=community-3';
 export class CommunityAPI{
  constructor(){this.session=null;try{this.session=JSON.parse(localStorage.getItem('incased-session'));}catch{}}
  get configured(){return /^https:\/\/[a-z0-9-]+\.supabase\.co$/.test(CONFIG.supabaseUrl)&&!!CONFIG.publishableKey;}
