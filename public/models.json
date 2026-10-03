@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "name": "Basic player",
+    "file": "models/basic-player.glb",
+    "description": "Knight helmet, red cape and the original basic knight armour. Rig and idle animation included.",
+    "creator": "Kay Lousberg / KayKit",
+    "license": "CC0 1.0"
+  },
+  {
+    "name": "Ashen longsword",
+    "file": "models/ashen-longsword.glb",
+    "description": "The basic one-handed sword, exported independently from the player.",
+    "creator": "Kay Lousberg / KayKit",
+    "license": "CC0 1.0"
+  },
+  {
+    "name": "Grave greatsword",
+    "file": "models/grave-greatsword.glb",
+    "description": "The two-handed sword, exported as a standalone weapon.",
+    "creator": "Kay Lousberg / KayKit",
+    "license": "CC0 1.0"
+  },
+  {
+    "name": "Basic skeleton",
+    "file": "models/basic-skeleton.glb",
+    "description": "The first-level Skeleton Warrior, with its original helmet and clothing. Rig and idle animation included.",
+    "creator": "Kay Lousberg / KayKit",
+    "license": "CC0 1.0"
+  },
+  {
+    "name": "God",
+    "file": "models/god.glb",
+    "description": "The final boss: ivory stone golem, gold crown and divine hammer. Rig and idle animation included.",
+    "creator": "Incased Games",
+    "license": "CC BY-NC 4.0"
+  }
+]

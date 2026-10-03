@@ -1,0 +1,10 @@
+Forgotten Journey — 3D asset collection
+
+Basic player, Ashen longsword, Grave greatsword: Kay Lousberg / KayKit Adventurers. Original assets: CC0 1.0. https://kaylousberg.itch.io/kaykit-adventurers
+Basic skeleton: Kay Lousberg / KayKit Skeletons. Original asset: CC0 1.0. https://kaylousberg.itch.io/kaykit-skeletons
+CC0: https://creativecommons.org/publicdomain/zero/1.0/
+
+God variant: Incased Games. Golem base supplied by Incased Games; ivory recolour, procedural crown and divine hammer additions for Forgotten Journey. CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/
+You may share and adapt the licensed material for non-commercial purposes with attribution to Incased Games, a licence link and an indication of changes. Commercial use needs separate permission. The CC BY-NC terms do not override the CC0 licence of the original KayKit material.
+
+Character rigs and an idle animation are retained. Standalone swords contain geometry and materials. Runtime combat shaders/effects are not part of the GLB files.
